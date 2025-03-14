@@ -1,10 +1,10 @@
-#Data Warehouse and Analytics Project
+### Data Warehouse and Analytics Project
 
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
-##🚀 Project Requirements
+### 🚀 Project Requirements
 
 Building the Data Warehouse (Data Engineering)
 Objective
@@ -18,7 +18,7 @@ Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams
 
 ---
-###BI: Analytics & Reporting (Data Analysis)
+### BI: Analytics & Reporting (Data Analysis)
 Objective
 Develop SQL-based analytics to deliver detailed insights into:
 
@@ -29,7 +29,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 For more details, refer to docs/requirements.md.
 ---
-###📂 Repository Structure
+### 📂 Repository Structure
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
@@ -55,8 +55,7 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 
 ----
-##🛡️ License
-
+## 🛡️ License
 his project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution
 
 
